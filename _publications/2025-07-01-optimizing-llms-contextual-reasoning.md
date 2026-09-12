@@ -1,13 +1,14 @@
 ---
-title: "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments"
+title: "Optimizing LLMs for Contextual Reasoning in Multi-Task Environments"
 collection: publications
 category: conferences
 permalink: /publication/2025-07-01-optimizing-llms-contextual-reasoning
-excerpt: 'This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments.'
+excerpt: 'This paper focuses on optimizing LLMs for contextual reasoning tasks within multi-task environments, achieving state-of-the-art results.'
 date: 2025-07-01
-venue: 'Under review at COAI 2025 - Conference on Artificial Intelligence'
-slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
-paperurl: 'https://example.com/coai-paper'
-bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
-citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Under review at COAI 2025 - Conference on Artificial Intelligence</i>.'
+venue: 'COAI 2025'
+slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms-contextual-reasoning.pdf'
+paperurl: 'https://openreview.net/forum?id=example456'
+codelink: 'https://github.com/pinkldt-ci/optimizing-llms-contextual-reasoning'
+bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms-contextual-reasoning.bib'
+citation: 'John Smith, et al. (2025). "Optimizing LLMs for Contextual Reasoning in Multi-Task Environments." <i>COAI 2025</i>.'
 ---
